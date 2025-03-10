@@ -1,1 +1,5 @@
 # GravitySimulator
+
+Goals:
+    - EMPTY -
+    - EMPTY -
