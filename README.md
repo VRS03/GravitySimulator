@@ -1,4 +1,6 @@
 # GravitySimulator
+-- DESCRIPTION -- 
+
 
 # Goals
 -- EMPTY --  
